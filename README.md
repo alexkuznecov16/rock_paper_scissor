@@ -12,10 +12,32 @@ This is a simple Rock, Scissor, Paper game implemented using Python and the Tkin
 
 ## Requirements
 
-- Python 3.x
+- Windows OS (for running the `.exe` file)
+- Python 3.x (for running the script directly)
 - Tkinter (usually comes pre-installed with Python)
 
 ## How to Run
+
+### Using the Executable File
+
+1. **Download the executable file:**
+    - Download `main.exe` from the `./dist` directory or from the provided link.
+
+2. **Navigate to the directory containing the executable:**
+    - Open the command prompt and change to the directory containing `main.exe`:
+
+    ```bash
+    cd path\to\dist
+    ```
+
+3. **Run the executable:**
+    - In the command prompt, type:
+
+    ```bash
+    main.exe
+    ```
+
+### Running from Source Code
 
 1. **Clone the repository:**
 
@@ -69,8 +91,8 @@ This is a simple Rock, Scissor, Paper game implemented using Python and the Tkin
 
 ## Acknowledgements
 
-- Tkinter documentation: https://docs.python.org/3/library/tkinter.html
-- Random module documentation: https://docs.python.org/3/library/random.html
+- Tkinter documentation: [Tkinter](https://docs.python.org/3/library/tkinter.html)
+- Random module documentation: [Random](https://docs.python.org/3/library/random.html)
 
 ---
 
